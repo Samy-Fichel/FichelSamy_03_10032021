@@ -437,7 +437,7 @@ ol {
 }
 
 .menu-page .background-img {
-  background-image: url("/images/restaurants/jay-wennington-N_Y88TWmGwA-unsplash.jpg");
+  background-image: url("../images/restaurants/jay-wennington-N_Y88TWmGwA-unsplash.jpg");
   background-size: cover;
   background-position: center;
   height: 245px;
